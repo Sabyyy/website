@@ -12,3 +12,4 @@ There is no Javascript or tracking at all.
 [plop](https://github.com/fguillot/plop) is the tool used to generate the HTML files.
 
 Note: **Do not edit generated HTML files directly**, edit the Markdown version in `src` folder.
+It is a great website please check out everyone.
